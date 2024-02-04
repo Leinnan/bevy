@@ -311,7 +311,7 @@ flate2 = "1.0"
 serde = { version = "1", features = ["derive"] }
 bytemuck = "1.14"
 # Needed to poll Task examples
-crossbeam-channel = "0.5.11"
+crossbeam-channel = "0.5"
 argh = "0.1.12"
 
 [[example]]

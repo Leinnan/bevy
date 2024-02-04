@@ -32,7 +32,7 @@ serde = { version = "1.0", optional = true }
 serialize = ["dep:serde"]
 
 [dev-dependencies]
-crossbeam-channel = "0.5.11"
+crossbeam-channel = "0.5"
 
 [lints]
 workspace = true
